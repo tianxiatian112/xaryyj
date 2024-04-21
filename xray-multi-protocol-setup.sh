@@ -1,8 +1,8 @@
 #!/bin/bash
 # 一键搭建socks5/ss/vmess/vless四协议代理
-# 运行代码是：sudo curl -s -L https://raw.githubusercontent.com/tt8296065/awsv2/main/xray-multi-protocol-setup.sh | sudo bash
+# 运行代码是：sudo curl -s -L https://github.com/tianxiatian112/xaryyj/blob/main/xray-multi-protocol-setup.sh | sudo bash
 # 定义端口号和密码/UUID
-# 35.92.143.38:21081:tudou:tudou666888
+# socks:35.92.143.38:21081:tudou:tudou666888
 # ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzYWRTRGdkZjFTYw==@35.92.143.38:21082#XD-SS_PORT
 # vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlhELVZNRVNTX1BPUlQtY2xvbmUiLA0KICAiYWRkIjogIjM0LjIxMi4yMC44NiIsDQogICJwb3J0IjogIjIxMDgzIiwNCiAgImlkIjogIjgzMmY4OGEwLTE5NWItNDljNi04ZWQ3LTIxODgzNzA4NzI5MSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL3ZtZXNzIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiINCn0=
 # vless://832f88a0-195b-49c6-8ed7-218837087291@18.236.90.59:21084?encryption=none&security=none&type=ws&path=%2Fvless#XD-VLESS_PORT
