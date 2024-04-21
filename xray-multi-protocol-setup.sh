@@ -1,6 +1,6 @@
 #!/bin/bash
 # 一键搭建socks5/ss/vmess/vless四协议代理
-# 运行代码是：sudo curl -s -L https://github.com/tianxiatian112/xaryyj/blob/main/xray-multi-protocol-setup.sh | sudo bash
+# 运行代码是：sudo curl -s -L https://raw.githubusercontent.com/tianxiatian112/xaryyj/main/xray-multi-protocol-setup.sh | sudo bash
 # 定义端口号和密码/UUID
 # socks:35.92.143.38:21081:tudou:tudou666888
 # ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzYWRTRGdkZjFTYw==@35.92.143.38:21082#XD-SS_PORT
